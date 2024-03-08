@@ -1,4 +1,0 @@
-1,BMW,Seria5
-3,Audi,A4
-4,Volkswagen,Tiguan
-5,Dacia,Logan
